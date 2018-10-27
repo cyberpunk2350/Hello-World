@@ -1,0 +1,8 @@
+<job>
+<script language="VBScript">
+  MsgBox "Hello, World! (from VBS)"
+</script>
+<script language="JScript">
+  WSH.echo("Hello, World! (from JScript)");
+</script>
+</job>
